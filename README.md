@@ -14,3 +14,5 @@ Atividade1 . O enunciado pede para criar 2 vetores e armazena valores. em seguid
 Atividade2. Escrever um progrema que leia 1 vetor e apresente em ordem descrescente;
 
 Atividade3. Ler um numero inteiro e mostrar ele ao quadrado x² e a sua raiz quadrada;
+
+Atividade4. Escreva um programa que leia 4 numeros inteiros e mostre a media aritimeticas sobre eles;
