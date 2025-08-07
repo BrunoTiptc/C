@@ -81,6 +81,7 @@ Utilize os mais variados recursos aprendidos na disciplina. Seja criativo, não 
 
 ```bash
 estudosC/
+├── atividadeMapa.c
 ├── atividade1_vetores.c
 ├── atividade2_ordem_decrescente.c
 ├── atividade3_potencia_raiz.c
