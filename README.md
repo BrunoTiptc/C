@@ -15,6 +15,19 @@ Este repositório reúne exercícios simples, porém importantes, que estou reso
 
 ### 🧠 Atividades Desenvolvidas
 
+
+### ✅ Estrutura de Dados I - Conversor de DNA — Fila e Pilha
+
+Este projeto em C simula o armazenamento e conversão de sequências de DNA.  
+As sequências são inseridas em uma fila (ordem de entrada) e convertidas para seus complementos em uma pilha (ordem reversa).  
+Cada nucleotídeo segue o padrão biológico: A↔T e C↔G.  
+O usuário pode inserir, excluir e visualizar sequências na fila.  
+Também é possível converter todas as sequências da fila para a pilha e visualizar os resultados.  
+O programa valida as entradas para garantir que contenham apenas caracteres válidos (A, T, C, G).  
+Ideal para fins educativos, simulações genéticas ou prática com estruturas de dados.  
+Interface via terminal, com menu interativo.  
+Limite de até 50 sequências por execução.
+
 #### ✅ Atividade 1 – Vetores e Comparação de Posições
 > Criar dois vetores, armazenar valores e comparar as posições diferentes entre eles.
 
@@ -81,6 +94,7 @@ Utilize os mais variados recursos aprendidos na disciplina. Seja criativo, não 
 
 ```bash
 estudosC/
+├── EstruturadeDados.c
 ├── atividadeMapa.c
 ├── atividade1_vetores.c
 ├── atividade2_ordem_decrescente.c
